@@ -1,6 +1,6 @@
 # Color Switch
 
-This is a mobile game made with Unity Engine.
+This is a mobile game made with Unity Engine. In the game, you bounce a ball to up by clicking. There is a circle above the ball. When the circle's part and the ball has same color, you will able to pass through the circle. After passing circle, ball takes an object called "color changer". Then as you guessed, ball's color will change and so on. 
 
 ## How to open in Unity?
 

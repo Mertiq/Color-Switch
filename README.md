@@ -16,7 +16,6 @@ You can play the game in sample scene in Unity or if you have an android mobile 
 
 [Color Switch](https://play.google.com/store/apps/details?id=com.Mertiq.ColorSwitch) 
 
-
 ## Built With
 
 * [Unity](https://unity.com) - Game Engine

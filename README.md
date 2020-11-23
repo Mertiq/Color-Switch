@@ -4,7 +4,7 @@ This is a mobile game made with Unity Engine.
 
 ## How to open in Unity?
 
-Create a 2D game project in Unity the download those files and import into your game.
+Create a 2D game project in Unity. Download those files and import into your game.
 
 ### Prerequisites
 

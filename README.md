@@ -24,3 +24,8 @@ You can play the game in sample scene in Unity or if you have an android mobile 
 ## Built With
 
 * [Unity](https://unity.com) - Unity
+* [C#]() - Used to code all things.
+
+## Acknowledgments
+
+* [Mertiq](https://github.com/Mertiq)

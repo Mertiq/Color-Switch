@@ -8,12 +8,8 @@ Create a 2D game project in Unity. Download those files and import into your gam
 
 ### Prerequisites
 
-If you don't have Unity, download link is below. 
+If you don't have [Unity](https://unity3d.com/get-unity/download), just download. 
 
-```
-https://unity3d.com/get-unity/download
-```
- 
 ## Running the tests
 
 You can play the game in sample scene in Unity or if you have an android mobile phone you can just download the game with this link.

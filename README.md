@@ -13,7 +13,7 @@ If you don't have Unity, download link is below.
 ```
 https://unity3d.com/get-unity/download
 ```
-
+ 
 ## Running the tests
 
 You can play the game in sample scene in Unity or if you have an android mobile phone you can just download the game with this link.
